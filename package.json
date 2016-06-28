@@ -1,0 +1,19 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "Instagram application/bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoistPockets/instagram.git"
+  },
+  "author": "Richard M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoistPockets/instagram/issues"
+  },
+  "homepage": "https://github.com/MoistPockets/instagram#readme"
+}
